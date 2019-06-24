@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE: How to modify data when a composite key is used
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e100)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to update a data source whose primary key includes multiple fields. The unbound column feature is used in this sample to  construct a field used as a primary key by the ASPxGridView control.</p><p><strong>NOTE:</strong> Starting from v2009 vol 1, the ASPxGridView supports composite keys out-of-the-box: <a href="https://www.devexpress.com/Support/Center/p/AS16551">Support for the composite key is required</a><br />
